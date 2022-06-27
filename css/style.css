@@ -1,0 +1,81 @@
+.pozadina
+{
+    background: url(../slike/pizzapozadina.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.shadowtext
+{
+    text-shadow: 5px 0px 5px rgb(233, 110, 29);
+}
+
+
+.vh100
+{
+    height: 100vh;
+}
+
+
+button
+{
+    transition: 1.3s ease!important;
+}
+
+.card-body {
+    height: 350px;
+    font-size: 0.9em;
+}
+
+img {
+    height: 230px;
+}
+
+.dodajProizvod {
+    bottom: 0;
+    left: 0;
+}
+
+
+button:hover
+{
+    background-color: rgb(233, 110, 29)!important;
+    border-color: black!important;
+}
+
+
+.logofont
+{
+    font-family: 'Kaushan Script', cursive;
+}
+
+
+.font
+{
+    font-family: 'Sansita', sans-serif;
+    font-size: 20px;
+}
+
+
+
+
+.meni {
+    display: none;
+}
+
+.floatingElement {
+    bottom: 0;
+    right: 0;
+}
+
+@media only screen and (max-width: 700px)
+{
+    .card-body {
+        height: 300px;
+    }
+    
+    img {
+        height: 250px;
+    }
+}

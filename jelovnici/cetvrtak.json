@@ -1,0 +1,58 @@
+[
+
+    {
+        "ime":"Napoletana",
+        "sastojci":["pelat", "kačkavalj", "kulen", "feferoni", "masline", "origano"],
+        "prilozi": ["jaje", "kečap", "pečenica", "sir", "čili sos", "feferoni"],
+        "cena":1070,
+        "product-id":19,
+        "tip":"pizza",
+        "slika":"slike/napoletana.jpg"
+    },
+    {
+        "ime":"Mexico",
+        "sastojci":["pelat", "kačkavalj", "paradajz", "kukuruz", "čili", "masline", "origano"],
+        "prilozi": ["jaje", "kečap", "pečenica", "sir", "čili sos", "feferoni"],
+        "cena":1070,
+        "product-id":20,
+        "tip":"pizza",
+        "slika":"slike/mexico.jpg"
+    },
+    {
+        "ime":"Hawai",
+        "sastojci":["pelat", "kačkavalj", "šunka", "ananas"],
+        "prilozi": ["jaje", "kečap", "pečenica", "sir", "čili sos", "feferoni"],
+        "cena":1100,
+        "product-id":21,
+        "tip":"pizza",
+        "slika":"slike/hawai.jpg"
+    },
+    {
+        "ime":"Paragina",
+        "sastojci":["pelat", "kačkavalj", "mocarela", "pršuta", "rukola", "parmezan", "masline", "origano"],
+        "prilozi": ["jaje", "kečap", "pečenica", "sir", "čili sos", "feferoni"],
+        "cena":1250,
+        "product-id":22,
+        "tip":"pizza",
+        "slika":"slike/paragina.jpg"
+    },
+    {
+        "ime":"Quattro formaggio",
+        "sastojci":["pelat", "kačkavalj", "gorgonzola", "parmezan", "feta", "masline", "origano"],
+        "prilozi": ["jaje", "kečap", "pečenica", "sir", "čili sos", "feferoni"],
+        "cena":1300,
+        "product-id":23,
+        "tip":"pizza",
+        "slika":"slike/quattroformaggio.jpg"
+    },
+    {
+        "ime":"Bergamo",
+        "sastojci":["pelat", "kačkavalj", "pečurke", "pančeta", "pršuta", "pečenica", "jaje", "pavlaka", "masline", "origano"],
+        "prilozi": ["jaje", "kečap", "pečenica", "sir", "čili sos", "feferoni"],
+        "cena":1250,
+        "product-id":24,
+        "tip":"pizza",
+        "slika":"slike/bergamo.jpg"
+    }
+
+]

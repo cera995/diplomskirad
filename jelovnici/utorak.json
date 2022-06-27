@@ -1,0 +1,58 @@
+[
+
+    {
+        "ime":"Tortilla Vegetariana",
+        "sastojci":["biljni kačkavalj", "miks zelenih salata", "kukuruz", "paradajz", "salsa od povrća"],
+        "prilozi": ["jaje", "kečap", "sir", "čili sos", "feferoni"],
+        "cena":300,
+        "product-id":7,
+        "tip":"tortilla",
+        "slika":"slike/tortillavegetariana.jpg"
+    },
+    {
+        "ime":"Tortilla Bolognese",
+        "sastojci":["bolonjez sos", "miks zelenih salata", "crni luk", "ljuta salsa od povrća"],
+        "prilozi": ["jaje", "kečap", "sir", "čili sos", "feferoni"],
+        "cena":350,
+        "product-id":8,
+        "tip":"tortilla",
+        "slika":"slike/tortillabolognese.jpg"
+    },
+    {
+        "ime":"Tortilla Tuna",
+        "sastojci":["tunjevina", "miks zelenih salata", "salsa od povrća"],
+        "prilozi": ["jaje", "kečap", "sir", "čili sos", "feferoni"],
+        "cena":330,
+        "product-id":9,
+        "tip":"tortilla",
+        "slika":"slike/tortillatuna.jpg"
+    },
+    {
+        "ime":"Tortilla Chicken",
+        "sastojci":["piletina", "kačkavalj", "paradajz", "ajsberg salata", "tartar sos"],
+        "prilozi": ["jaje", "kečap", "sir", "čili sos", "feferoni"],
+        "cena":350,
+        "product-id":10,
+        "tip":"tortilla",
+        "slika":"slike/tortillachicken.jpg"
+    },
+    {
+        "ime":"Tortilla Ham",
+        "sastojci":["pavlaka", "kačkavalj", "šunka", "pečurke", "majonez", "zelena salata", "origano"],
+        "prilozi": ["jaje", "kečap", "sir", "čili sos", "feferoni"],
+        "cena":330,
+        "product-id":11,
+        "tip":"tortilla",
+        "slika":"slike/tortillaham.jpg"
+    },
+    {
+        "ime":"Lasagne",
+        "sastojci":["testo", "bolonjez sos", "bešamel sos", "kačkavalj", "origano"],
+        "prilozi": ["jaje", "kečap", "sir", "čili sos"],
+        "cena":600,
+        "product-id":12,
+        "tip":"tortilla",
+        "slika":"slike/lasagne.jpg"
+    }
+
+]

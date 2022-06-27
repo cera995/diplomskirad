@@ -1,0 +1,58 @@
+[
+
+    {
+        "ime":"Classic Burger",
+        "sastojci":["juneće meso 250gr", "čedar sir", "dresing", "zelena salata", "paradajz"],
+        "prilozi": ["pomfrit", "kečap", "majonez", "čili sos"],
+        "cena":380,
+        "product-id":25,
+        "tip":"burger",
+        "slika":"slike/classicburger.jpg"
+    },
+    {
+        "ime":"Bacon Burger",
+        "sastojci":["juneće meso 250gr", "čedar sir", "dresing", "zelena salata", "paradajz", "slanina", "crveni luk"],
+        "prilozi": ["pomfrit", "kečap", "majonez", "čili sos"],
+        "cena":420,
+        "product-id":26,
+        "tip":"burger",
+        "slika":"slike/baconburger.jpg"
+    },
+    {
+        "ime":"Chicken Burger",
+        "sastojci":["pileći burger 250gr", "čedar sir", "čedar toping", "iceberg", "paradajz", "grilovani luk"],
+        "prilozi": ["pomfrit", "kečap", "majonez", "čili sos"],
+        "cena":400,
+        "product-id":27,
+        "tip":"burger",
+        "slika":"slike/chickenburger.jpg"
+    },
+    {
+        "ime":"Rich Burger",
+        "sastojci":["2x juneće meso 250gr", "čedar sir", "ementaler", "dresing", "zelena salata", "paradajz", "grilovani luk", "jaje"],
+        "prilozi": ["pomfrit", "kečap", "majonez", "čili sos"],
+        "cena":700,
+        "product-id":28,
+        "tip":"burger",
+        "slika":"slike/richburger.jpg"
+    },
+    {
+        "ime":"Vegetarijanski Burger",
+        "sastojci":["burger od povrća 250gr", "cezar toping", "grilovani luk", "iceberg", "paradajz"],
+        "prilozi": ["pomfrit", "kečap", "majonez", "čili sos"],
+        "cena":450,
+        "product-id":29,
+        "tip":"burger",
+        "slika":"slike/vegetarianburger.jpg"
+    },
+    {
+        "ime":"Halapenjo Burger",
+        "sastojci":["juneće meso 250gr", "čedar sir", "halapenjos", "ementaler", "dresing", "paradajz", "zelena salata", "kiseli krastavac"],
+        "prilozi": ["pomfrit", "kečap", "majonez", "čili sos"],
+        "cena":450,
+        "product-id":30,
+        "tip":"burger",
+        "slika":"slike/jalapenoburger.jpg"
+    }
+
+]

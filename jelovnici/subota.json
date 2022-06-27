@@ -1,0 +1,58 @@
+[
+
+    {
+        "ime":"Pileći file",
+        "sastojci":["lepinja", "pileći file 300gr", "pomfrit", "salata"],
+        "prilozi": ["pomfrit", "kečap", "majonez", "senf", "čili sos", "sir"],
+        "cena":550,
+        "product-id":31,
+        "tip":"obroci",
+        "slika":"slike/pilecifile.jpg"
+    },
+    {
+        "ime":"Bečka šnicla",
+        "sastojci":["lepinja", "svinjski but 300gr", "tartar sos", "pomfrit", "limun"],
+        "prilozi": ["pomfrit", "kečap", "majonez", "senf", "čili sos", "sir"],
+        "cena":600,
+        "product-id":32,
+        "tip":"obroci",
+        "slika":"slike/beckasnicla.jpg"
+    },
+    {
+        "ime":"Piletina u susamu",
+        "sastojci":["lepinja", "pileći file 300gr", "pomfrit", "salata"],
+        "prilozi": ["pomfrit", "kečap", "majonez", "senf", "čili sos", "sir"],
+        "cena":670,
+        "product-id":33,
+        "tip":"obroci",
+        "slika":"slike/piletinaususamu.jpg"
+    },
+    {
+        "ime":"Piletina u kikiriki sosu",
+        "sastojci":["lepinja", "pileći file 300gr", "kikiriki", "pavlaka", "pekarski krompir"],
+        "prilozi": ["pomfrit", "kečap", "majonez", "senf", "čili sos", "sir"],
+        "cena":720,
+        "product-id":34,
+        "tip":"obroci",
+        "slika":"slike/piletinaukikirikisosu.jpg"
+    },
+    {
+        "ime":"Kobasice sa sirom",
+        "sastojci":["lepinja", "kobasice 300gr", "pekarski krompir", "sir", "senf"],
+        "prilozi": ["pomfrit", "kečap", "majonez", "senf", "čili sos", "sir"],
+        "cena":700,
+        "product-id":35,
+        "tip":"obroci",
+        "slika":"slike/kobasicesasirom.jpg"
+    },
+    {
+        "ime":"Karađorđeva šnicla",
+        "sastojci":["lepinja", "svinjski file 250gr", "kajmak", "tartar", "pomfrit", "salata", "limun"],
+        "prilozi": ["pomfrit", "kečap", "majonez", "senf", "čili sos", "sir"],
+        "cena":740,
+        "product-id":36,
+        "tip":"obroci",
+        "slika":"slike/karadjordjevasnicla.jpg"
+    }
+
+]

@@ -1,0 +1,58 @@
+[
+
+    {
+        "ime":"Vegetariana",
+        "sastojci":["pelat", "paradajz", "paprika", "tikvice", "crni luk"],
+        "prilozi": ["jaje", "kačkavalj", "pavlaka", "suvi vrat", "pečurke", "paradajz"],
+        "cena":560,
+        "product-id":13,
+        "tip":"pasta",
+        "slika":"slike/vegetariana.jpg"
+    },
+    {
+        "ime":"Milanese",
+        "sastojci":["paradajz sos", "šunka", "parmezan"],
+        "prilozi": ["jaje", "kačkavalj", "pavlaka", "suvi vrat", "pečurke", "paradajz"],
+        "cena":560,
+        "product-id":14,
+        "tip":"pasta",
+        "slika":"slike/milanese.jpg"
+    },
+    {
+        "ime":"Bolognese",
+        "sastojci":["pelat", "bolonjez sos", "parmezan"],
+        "prilozi": ["jaje", "kačkavalj", "pavlaka", "suvi vrat", "pečurke", "paradajz"],
+        "cena":580,
+        "product-id":15,
+        "tip":"pasta",
+        "slika":"slike/bolognese.jpg"
+    },
+    {
+        "ime":"Carbonara",
+        "sastojci":["pavlaka", "pančeta", "beli luk", "belo vino", "žumance", "parmezan"],
+        "prilozi": ["jaje", "kačkavalj", "pavlaka", "suvi vrat", "pečurke", "paradajz"],
+        "cena":580,
+        "product-id":16,
+        "tip":"pasta",
+        "slika":"slike/carbonara.jpg"
+    },
+    {
+        "ime":"Pesto",
+        "sastojci":["piletina", "pavlaka", "pesto sos"],
+        "prilozi": ["jaje", "kačkavalj", "pavlaka", "suvi vrat", "pečurke", "paradajz"],
+        "cena":600,
+        "product-id":17,
+        "tip":"pasta",
+        "slika":"slike/pesto.jpg"
+    },
+    {
+        "ime":"Frutti di mare",
+        "sastojci":["plodovi mora", "pelat", "belo vino", "beli luk"],
+        "prilozi": ["jaje", "kačkavalj", "pavlaka", "suvi vrat", "pečurke", "paradajz"],
+        "cena":600,
+        "product-id":18,
+        "tip":"pasta",
+        "slika":"slike/fruttidimare.jpg"
+    }
+
+]

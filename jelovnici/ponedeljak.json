@@ -1,0 +1,58 @@
+[
+
+    {
+        "ime":"Margarita",
+        "sastojci":["pelat", "kačkavalj", "parmezan", "masline", "origano"],
+        "prilozi": ["jaje", "kečap", "pečenica", "sir", "čili sos", "feferoni"],
+        "cena":920,
+        "product-id":1,
+        "tip":"pizza",
+        "slika":"slike/margarita.jpg"
+    },
+    {
+        "ime":"Funghi",
+        "sastojci":["pelat", "kačkavalj", "pečurke", "masline", "origano"],
+        "prilozi": ["jaje", "kečap", "pečenica", "sir", "čili sos", "feferoni"],
+        "cena":950,
+        "product-id":2,
+        "tip":"pizza",
+        "slika":"slike/funghi.jpg"
+    },
+    {
+        "ime":"Vesuvio",
+        "sastojci":["pelat", "kačkavalj", "šunka", "masline", "origano"],
+        "prilozi": ["jaje", "kečap", "pečenica", "sir", "čili sos", "feferoni"],
+        "cena":980,
+        "product-id":3,
+        "tip":"pizza",
+        "slika":"slike/vesuvio.jpg"
+    },
+    {
+        "ime":"Capricciosa",
+        "sastojci":["pelat", "kačkavalj", "šunka", "pečurke", "masline", "origano"],
+        "prilozi": ["jaje", "kečap", "pečenica", "sir", "čili sos", "feferoni"],
+        "cena":1100,
+        "product-id":4,
+        "tip":"pizza",
+        "slika":"slike/capricciosa.jpg"
+    },
+    {
+        "ime":"Quattro stagioni",
+        "sastojci":["pelat", "kačkavalj", "šunka", "pečurke", "jaje", "kulen", "masline", "origano"],
+        "prilozi": ["jaje", "kečap", "pečenica", "sir", "čili sos", "feferoni"],
+        "cena":1150,
+        "product-id":5,
+        "tip":"pizza",
+        "slika":"slike/quattrostagioni.jpg"
+    },
+    {
+        "ime":"Diavola",
+        "sastojci":["pelat", "kačkavalj", "šunka", "kulen", "pančeta", "tabasko", "masline", "origano"],
+        "prilozi": ["jaje", "kečap", "pečenica", "sir", "čili sos", "feferoni"],
+        "cena":1200,
+        "product-id":6,
+        "tip":"pizza",
+        "slika":"slike/diavola.jpg"
+    }
+
+]

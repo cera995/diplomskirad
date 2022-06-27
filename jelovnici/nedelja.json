@@ -1,0 +1,58 @@
+[
+
+    {
+        "ime":"Speciale",
+        "sastojci":["pelat", "kačkavalj", "šunka", "dimljeni vrat", "pečurke", "pančeta", "kulen", "jaja", "pavlaka", "masline", "origano"],
+        "prilozi": ["jaje", "kečap", "pečenica", "sir", "čili sos", "feferoni"],
+        "cena":1300,
+        "product-id":37,
+        "tip":"pizza",
+        "slika":"slike/speciale.jpg"
+    },
+    {
+        "ime":"Caesar",
+        "sastojci":["pavlaka", "kačkavalj", "piletina", "pančeta", "parmezan", "masline", "ajsberg", "origano", "dresing"],
+        "prilozi": ["jaje", "kečap", "pečenica", "sir", "čili sos", "feferoni"],
+        "cena":1300,
+        "product-id":38,
+        "tip":"pizza",
+        "slika":"slike/caesar.jpg"
+    },
+    {
+        "ime":"Romana",
+        "sastojci":["pelat", "kačkavalj", "dimljeni vrat", "pančeta", "kulen", "kajmak", "masline", "origano"],
+        "prilozi": ["jaje", "kečap", "pečenica", "sir", "čili sos", "feferoni"],
+        "cena":1280,
+        "product-id":39,
+        "tip":"pizza",
+        "slika":"slike/romana.jpg"
+    },
+    {
+        "ime":"Tonno",
+        "sastojci":["pelat", "sir", "tuna", "paradajz", "masline", "origano"],
+        "prilozi": ["jaje", "kečap", "pečenica", "sir", "čili sos", "feferoni"],
+        "cena":1180,
+        "product-id":40,
+        "tip":"pizza",
+        "slika":"slike/tonno.jpg"
+    },
+    {
+        "ime":"Calzone",
+        "sastojci":["kečap", "šunka", "kačkavalj", "pečurke"],
+        "prilozi": ["jaje", "kečap", "pečenica", "sir", "čili sos", "feferoni"],
+        "cena":900,
+        "product-id":41,
+        "tip":"pizza",
+        "slika":"slike/calzone.jpg"
+    },
+    {
+        "ime":"Italiana",
+        "sastojci":["pelat", "sir", "pršuta", "rukola", "mocarela", "chery", "parmezan"],
+        "prilozi": ["jaje", "kečap", "pečenica", "sir", "čili sos", "feferoni"],
+        "cena":1250,
+        "product-id":42,
+        "tip":"pizza",
+        "slika":"slike/italiana.jpg"
+    }
+
+]
